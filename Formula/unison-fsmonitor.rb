@@ -1,8 +1,8 @@
 class UnisonFsmonitor < Formula
   desc "unison-fsmonitor for macOS"
   homepage "https://github.com/autozimu/unison-fsmonitor"
-  url "https://github.com/autozimu/unison-fsmonitor/archive/0.2.0.tar.gz"
-  sha256 "bd7bf9d7654f8ee850a99f9e725f7cd7cd2ef85d7bf9e6e6744a89525608e0d8"
+  url "https://github.com/autozimu/unison-fsmonitor/archive/0.2.3.tar.gz"
+  sha256 "c06a77b018bf8bb0127032b83fcb02af592f7002a0cbe812fb0e2655f50df08c"
   head "https://github.com/autozimu/unison-fsmonitor.git"
 
   depends_on "rust" => :build
