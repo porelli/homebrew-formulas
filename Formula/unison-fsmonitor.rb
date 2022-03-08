@@ -3,8 +3,8 @@
 class UnisonFsmonitor < Formula
   desc "unison-fsmonitor for macOS"
   homepage "https://github.com/autozimu/unison-fsmonitor"
-  url "https://github.com/autozimu/unison-fsmonitor/releases/latest/download/unison-fsmonitor.tar.gz"
-  version "0.2.3"
+  url "https://github.com/autozimu/unison-fsmonitor/releases/download/v0.3.0/unison-fsmonitor.tar.gz"
+  version "0.3.0"
 
   def install
     bin.install "unison-fsmonitor"
