@@ -3,7 +3,7 @@
 class UnisonFsmonitor < Formula
   desc "unison-fsmonitor for macOS"
   homepage "https://github.com/autozimu/unison-fsmonitor"
-  version "0.3.0"
+  version "0.3.2"
 
   if OS.linux?
     if Hardware::CPU.intel?
